@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=hi,%20i'm%20[tu%20nombre]&fontAlign=50&fontAlignY=40&color=0:0f0f0f,100:3a3a3a&fontColor=f5f5f5&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=hi,%20i'm%20[Alexis%20Barahona]&fontAlign=50&fontAlignY=40&color=0:0f0f0f,100:3a3a3a&fontColor=f5f5f5&animation=fadeIn" />
 
 <br>
 
@@ -56,18 +56,6 @@ short description of the experience and functionality.
 an app designed to simplify a frustrating workflow.
 
 `TypeScript` `Express`
-
----
-
-# github stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Saggira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saggira&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-
-</div>
 
 ---
 

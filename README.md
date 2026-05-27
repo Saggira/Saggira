@@ -20,7 +20,7 @@
 # tech stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,postgres,mysql,firebase,tailwind,figma,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,ionic,mysql,angular,figma,git,github,vscode" />
 
 </div>
 
@@ -38,24 +38,10 @@
 
 # featured projects
 
-## Project Name
-short description of what it solves and why it matters.
+## Moppy
+An app for thoose of us who hate numbers and finances lol
 
-`React` `Node.js` `PostgreSQL`
-
----
-
-## ✦ Project Name
-short description of the experience and functionality.
-
-`Next.js` `Firebase` `Tailwind`
-
----
-
-## ✦ Project Name
-an app designed to simplify a frustrating workflow.
-
-`TypeScript` `Express`
+`Ionic` `Angular` 
 
 ---
 

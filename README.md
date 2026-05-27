@@ -1,16 +1,118 @@
-## Hi there 👋
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=hi,%20i'm%20[tu%20nombre]&fontAlign=50&fontAlignY=40&color=0:0f0f0f,100:3a3a3a&fontColor=f5f5f5&animation=fadeIn" />
 
-<!--
-**Saggira/Saggira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=D4D4D4&center=true&vCenter=true&width=700&lines=Frontend+Developer;UI%2FUX+Lover;Designing+apps+that+feel+simple;Building+things+that+shouldn't+be+complicated)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+# about me
+
+```txt
+⌁ obsessed with making complex things feel intuitive
+⌁ designing experiences before designing screens
+⌁ probably restructuring a UI at 2am
+```
+---
+# tech stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,postgres,mysql,firebase,tailwind,figma,git,github,vscode" />
+
+</div>
+
+---
+
+# current focus
+
+- building cleaner frontend architectures
+- creating interfaces that don't overwhelm users
+- improving ux flows & app structure
+- learning scalable fullstack development
+- turning messy processes into usable systems
+
+---
+
+# featured projects
+
+## Project Name
+short description of what it solves and why it matters.
+
+`React` `Node.js` `PostgreSQL`
+
+---
+
+## ✦ Project Name
+short description of the experience and functionality.
+
+`Next.js` `Firebase` `Tailwind`
+
+---
+
+## ✦ Project Name
+an app designed to simplify a frustrating workflow.
+
+`TypeScript` `Express`
+
+---
+
+# github stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Saggira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saggira&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+
+</div>
+
+---
+
+# contribution activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saggira&theme=tokyo-night&hide_border=true&bg_color=00000000" />
+
+</div>
+
+---
+
+# currently
+
+```txt
+working on:
+↳ apps
+↳ interfaces
+↳ systems
+↳ probably redesigning something unnecessarily
+```
+
+---
+
+# connect
+
+<div align="center">
+
+<a href="https://github.com/TUUSUARIO">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+
+<a href="mailto:barahonaalexis511@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```txt
+"good design removes friction before users notice it"
+```
+
+</div>

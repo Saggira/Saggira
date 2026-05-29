@@ -134,6 +134,9 @@ working on:
   <img src="https://img.shields.io/badge/email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=C8A2FF"/>
 </a>
 
+<a href="[https://github.com/Saggira](https://www.linkedin.com/in/alexis-barahona-2bb984365/)">
+<img src="https://img.shields.io/badge/linkedin-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=C8A2FF"/></a>
+
 </div>
 
 ---

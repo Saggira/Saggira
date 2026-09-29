@@ -1,158 +1,187 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Alexis%20Barahona&fontAlign=50&fontAlignY=38&color=0:0f0f0f,50:2b143d,100:6a4c93&fontColor=f8f8f8&animation=fadeIn&desc=frontend%20developer%20✦%20ui%20designer%20✦%20problem%20simplifier&descAlignY=60&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Alexis%20Barahona&fontAlign=50&fontAlignY=38&color=0:0f1115,50:18251f,100:3d6b55&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20%7C%20Frontend%20%7C%20UI%2FUX&descAlignY=60&descSize=17" />
 
 <br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C8A2FF&center=true&vCenter=true&width=700&lines=designing+apps+that+feel+simple;frontend+with+intentional+ux;turning+mess+into+interfaces;probably+fixing+spacing+right+now" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Saggira&color=6a4c93&style=flat-square&label=profile+views" />
-
-</div>
-
----
-
-<div align="center">
-
-### ✦ about me ✦
-
-</div>
-
-```txt
-⌁ frontend developer with a thing for clean interfaces
-⌁ i like making complicated systems feel less overwhelming
-⌁ designing experiences before designing screens
-⌁ probably reorganizing a ui at 2am
-```
-
----
-
-<div align="center">
-
-### ☾ tech stack ☽
-
-</div>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,angular,mysql,figma,git,github,vscode&theme=dark" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/frontend-lover-6a4c93?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ui%2Fux-focused-8e7cc3?style=for-the-badge" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🕸 current focus 🕸
-
-</div>
-
-- building cleaner frontend architectures
-- creating interfaces that don't overwhelm users
-- improving ux flows & app structure
-- learning scalable fullstack development
-- turning messy processes into usable systems
-
----
-
-<div align="center">
-
-### ✦ featured project ✦
-
-</div>
-
-# Moppy
-
-> an app for those of us who hate numbers and finances lol
-
-`Ionic` `Angular`
-
-⌁ designed to simplify financial organization without making users feel lost  
-⌁ focused on usability, structure, and reducing friction
-
----
-
-<div align="center">
-
-### ☾ github activity ☾
-
-</div>
-
-<div align="center">
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saggira&theme=tokyo-night&hide_border=true&bg_color=00000000" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🌙 currently 🌙
-
-</div>
-
-```txt
-working on:
-↳ apps
-↳ interfaces
-↳ systems
-↳ probably redesigning something unnecessarily
-```
-
----
-
-<div align="center">
-
-### ✦ connect ✦
-
-</div>
-
-<div align="center">
 
 <a href="https://github.com/Saggira">
-  <img src="https://img.shields.io/badge/github-1a1a1a?style=for-the-badge&logo=github&logoColor=C8A2FF"/>
+<img src="https://komarev.com/ghpvc/?username=Saggira&color=3d6b55&style=flat-square&label=PROFILE+VIEWS" />
+</a>
+
+</div>
+
+---
+
+## About Me
+
+I'm a **Software Development student and junior developer** interested in building applications that combine solid functionality with thoughtful user experiences.
+
+My main interests are **frontend development, software architecture, databases, and UI/UX design**. I enjoy taking complex requirements and turning them into interfaces and systems that are easier to understand and use.
+
+* Software Development & Management student at UTP
+* Interested in database design and application architecture
+* Currently expanding my skills toward full-stack development
+* 📍 Panama
+
+---
+
+## Tech Stack
+
+### Development
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=java,cs,js,ts,react,angular,html,css&theme=dark" />
+
+</div>
+
+### Databases & Tools
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,visualstudio,figma&theme=dark" />
+
+</div>
+
+### Currently Learning
+
+```text
+Frontend Architecture
+Full-Stack Development
+Database Design
+Software Architecture
+UI/UX Design
+```
+
+---
+
+## Featured Projects
+
+### 📝 UrNotes
+
+**Collaborative desktop notes application**
+
+`C#` `WPF` `MVVM` `GitHub`
+
+A desktop productivity application focused on creating, organizing and managing notes locally.
+
+**Focus:**
+
+* Modern desktop UI
+* MVVM architecture
+* Local data management
+* Search and note organization
+* Image support
+* PDF export
+* Reusable UI components
+
+---
+
+### 🛒 Alacena Digital
+
+**Smart household inventory & shopping application**
+
+`Figma` `UI/UX` `Product Design`
+
+A digital solution designed to simplify household inventory and shopping management.
+
+**Features explored:**
+
+* Shopping lists
+* Inventory management
+* Budget estimation
+* Recipe suggestions
+* Calendar
+* User profile
+* Gamification
+* Voice interaction
+
+---
+
+### 🌧️ Rain & Flood Prediction System
+
+**Research-oriented environmental software project**
+
+`Data Analysis` `Databases` `Software Development`
+
+A project focused on using environmental and geographic data to support rainfall and flood prediction in vulnerable areas.
+
+Potential data sources include:
+
+* Precipitation
+* Temperature
+* Humidity
+* Atmospheric pressure
+* Wind
+* River levels
+* Elevation and slope
+* Land use
+
+---
+
+## What I Care About
+
+```text
+01  Usability
+    Software should be understandable before it is impressive.
+
+02  Structure
+    Good architecture makes future changes easier.
+
+03  Data
+    Well-designed databases are part of good software.
+
+04  Interface
+    A good UI should reduce friction, not add to it.
+
+05  Continuous Learning
+    I am constantly expanding my technical foundation.
+```
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Saggira&show_icons=true&hide_border=true&bg_color=00000000&title_color=3d6b55&icon_color=3d6b55&text_color=8b949e&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saggira&layout=compact&hide_border=true&bg_color=00000000&title_color=3d6b55&text_color=8b949e" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saggira&theme=github-compact&hide_border=true&bg_color=00000000&color=3d6b55&line=3d6b55&point=3d6b55" />
+
+</div>
+
+---
+
+## Connect
+
+<div align="left">
+
+<a href="https://github.com/Saggira">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/alexis-barahona-2bb984365/">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:barahonaalexis511@gmail.com">
-  <img src="https://img.shields.io/badge/email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=C8A2FF"/>
+<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="[https://github.com/Saggira](https://www.linkedin.com/in/alexis-barahona-2bb984365/)">
-<img src="https://img.shields.io/badge/linkedin-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=C8A2FF"/></a>
-
 </div>
 
 ---
 
 <div align="center">
 
-<img src="https://media.tenor.com/DimzPZMypFcAAAAC/lain-serial-experiments-lain.gif" width="220"/>
-
-</div>
-
----
-
-<div align="center">
-
-```txt
-"good design removes friction before users notice it"
-```
+### Building software with purpose.
 
 </div>

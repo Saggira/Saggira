@@ -1,152 +1,128 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Alexis%20Barahona&fontAlign=50&fontAlignY=38&color=0:0f1115,50:18251f,100:3d6b55&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20%7C%20Frontend%20%7C%20UI%2FUX&descAlignY=60&descSize=17" />
+![Alexis Barahona](https://capsule-render.vercel.app/api?type=venom&height=300&text=Alexis%20Barahona&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=45&color=0:0B0710,45:24104F,75:6D28D9,100:E879F9&stroke=E879F9&strokeWidth=1&animation=twinkling)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=700&size=19&pause=1200&color=E9A8FF&center=true&vCenter=true&width=750&lines=building+software+around+real+requirements;React+%7C+React+Native+%7C+Ionic+%7C+Node.js;designing+before+developing;AI-assisted+development+with+purpose" alt="Typing SVG">
 
 <br>
 
-<a href="https://github.com/Saggira">
-<img src="https://komarev.com/ghpvc/?username=Saggira&color=3d6b55&style=flat-square&label=PROFILE+VIEWS" />
-</a>
 
 </div>
 
 ---
 
-## About Me
+# ABOUT ME
 
-I'm a **Software Development student and junior developer** interested in building applications that combine solid functionality with thoughtful user experiences.
+### Software Developer · Product Development
 
-My main interests are **frontend development, software architecture, databases, and UI/UX design**. I enjoy taking complex requirements and turning them into interfaces and systems that are easier to understand and use.
+I build software based on **real requirements**, combining development, documentation, UI/UX and requirements engineering.
 
-* Software Development & Management student at UTP
-* Interested in database design and application architecture
-* Currently expanding my skills toward full-stack development
-* 📍 Panama
+I focus on understanding **what needs to be built and why** before turning it into code.
+
+```text
+REQUIREMENTS
+      ↓
+DOCUMENTATION
+      ↓
+DESIGN
+      ↓
+DEVELOPMENT
+      ↓
+PRODUCT
+```
 
 ---
 
-## Tech Stack
+# TECHNOLOGIES
+
+<div align="center">
 
 ### Development
 
-<div align="left">
+<img src="https://skillicons.dev/icons?i=react" height="65" alt="React">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" height="50" alt="React Native">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" height="50" alt="Ionic">
+<img src="https://skillicons.dev/icons?i=angular" height="65" alt="Angular">
+<img src="https://skillicons.dev/icons?i=nodejs" height="65" alt="Node.js">
+<img src="https://skillicons.dev/icons?i=cs" height="65" alt="C#">
+<img src="https://skillicons.dev/icons?i=dotnet" height="65" alt=".NET">
+<img src="https://skillicons.dev/icons?i=java" height="65" alt="Java">
 
-<img src="https://skillicons.dev/icons?i=java,cs,js,ts,react,angular,html,css&theme=dark" />
+<br><br>
+
+### Database & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql" height="65" alt="MySQL">
+<img src="https://skillicons.dev/icons?i=git" height="65" alt="Git">
+<img src="https://skillicons.dev/icons?i=github" height="65" alt="GitHub">
+<img src="https://skillicons.dev/icons?i=figma" height="65" alt="Figma">
+<img src="https://skillicons.dev/icons?i=vscode" height="65" alt="Visual Studio Code">
 
 </div>
 
-### Databases & Tools
+# SELECTED PROJECTS
 
-<div align="left">
+| #      | Project        | Stack             | Description                                                                                                                                     |
+| ------ | -------------- | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **01** | **E-Commerce** | `React Native`    | Mobile e-commerce application developed for a private project. Focused on mobile UI, product flows, data integration and application structure. |
+| **02** | **UrNotes**    | `C#` `WPF` `MVVM` | Desktop notes application focused on organization, local data management, search and PDF export.                                                |
+| **03** | **Moppy**      | `Ionic` `Angular` | Mobile application currently under development, focused on product structure, user flows, interface development and application logic.          |
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,visualstudio,figma&theme=dark" />
-
-</div>
-
-### Currently Learning
-
-```text
-Frontend Architecture
-Full-Stack Development
-Database Design
-Software Architecture
-UI/UX Design
-```
+> **E-Commerce:** Private project — implementation details are intentionally not disclosed.
 
 ---
 
-## Featured Projects
-
-### 📝 UrNotes
-
-**Collaborative desktop notes application**
-
-`C#` `WPF` `MVVM` `GitHub`
-
-A desktop productivity application focused on creating, organizing and managing notes locally.
-
-**Focus:**
-
-* Modern desktop UI
-* MVVM architecture
-* Local data management
-* Search and note organization
-* Image support
-* PDF export
-* Reusable UI components
-
----
-
-### 🛒 Alacena Digital
-
-**Smart household inventory & shopping application**
-
-`Figma` `UI/UX` `Product Design`
-
-A digital solution designed to simplify household inventory and shopping management.
-
-**Features explored:**
-
-* Shopping lists
-* Inventory management
-* Budget estimation
-* Recipe suggestions
-* Calendar
-* User profile
-* Gamification
-* Voice interaction
-
----
-
-### 🌧️ Rain & Flood Prediction System
-
-**Research-oriented environmental software project**
-
-`Data Analysis` `Databases` `Software Development`
-
-A project focused on using environmental and geographic data to support rainfall and flood prediction in vulnerable areas.
-
-Potential data sources include:
-
-* Precipitation
-* Temperature
-* Humidity
-* Atmospheric pressure
-* Wind
-* River levels
-* Elevation and slope
-* Land use
-
----
-
-## What I Care About
-
-```text
-01  Usability
-    Software should be understandable before it is impressive.
-
-02  Structure
-    Good architecture makes future changes easier.
-
-03  Data
-    Well-designed databases are part of good software.
-
-04  Interface
-    A good UI should reduce friction, not add to it.
-
-05  Continuous Learning
-    I am constantly expanding my technical foundation.
-```
-
----
-
-## GitHub Stats
+# HOW I WORK
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Saggira&show_icons=true&hide_border=true&bg_color=00000000&title_color=3d6b55&icon_color=3d6b55&text_color=8b949e&rank_icon=github" />
+### `UNDERSTAND` → `DOCUMENT` → `DESIGN` → `BUILD` → `REFINE`
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saggira&layout=compact&hide_border=true&bg_color=00000000&title_color=3d6b55&text_color=8b949e" />
+</div>
+
+## Requirements Engineering
+
+I don't build features just because they are possible.
+
+I start from the **needs of the product and its users**, defining and documenting what the software actually needs before implementation.
+
+## AI-Assisted Development
+
+I use AI agents as **specialized tools** for specific tasks such as:
+
+* Research
+* Debugging
+* Documentation
+* Analysis
+* Implementation
+* Problem solving
+
+The goal is not to have AI build everything.
+
+The goal is to use the **right agent for the right task**, work faster and more efficiently while maintaining control over the code, architecture and final product.
+
+---
+
+# CURRENTLY
+
+<div align="center">
+
+Building software projects
+Improving UI/UX and product design
+Developing my software engineering skills
+Exploring AI-assisted development
+
+</div>
+
+---
+
+# CONNECT
+
+<div align="center">
+
+<a href="https://github.com/Saggira">
+  <img src="https://img.shields.io/badge/GitHub-Saggira-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
 </div>
 
@@ -154,34 +130,6 @@ Potential data sources include:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saggira&theme=github-compact&hide_border=true&bg_color=00000000&color=3d6b55&line=3d6b55&point=3d6b55" />
-
-</div>
-
----
-
-## Connect
-
-<div align="left">
-
-<a href="https://github.com/Saggira">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/alexis-barahona-2bb984365/">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:barahonaalexis511@gmail.com">
-<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### Building software with purpose.
+###  Thanks for visiting my profile :)
 
 </div>
